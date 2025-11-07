@@ -57,5 +57,13 @@ public class checkboxes {
 
         driver.navigate().refresh();
 
+        System.out.println("Comment 1");
+        System.out.println("Comment 1");
+
+        System.out.println("Comment 1");
+
+        System.out.println("Comment 1");
+
+
 
     }}
