@@ -64,6 +64,12 @@ public class checkboxes {
 
         System.out.println("Comment 1");
 
+        System.out.println("Comment 5");
+        System.out.println("Comment 15");
+        System.out.println("Comment 145");
+        System.out.println("Comment 174");
+
+
 
 
     }}
